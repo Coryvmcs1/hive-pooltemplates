@@ -33,6 +33,7 @@
             "VIC",
             "WHL",
             "YOC",
+            "XVV"
             "Nicehash-Ethash",
             "Whalesburg-Ethash",
             "MPH-Ethash",
@@ -113,7 +114,8 @@
             "AEON",
             "TRIT",
             "TRTL",
-            "BSM"
+            "BSM",
+            "XVV"
         ]
     },
     {
